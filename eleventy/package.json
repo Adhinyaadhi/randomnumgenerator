@@ -1,0 +1,24 @@
+{
+  "name": "js_random_num_generator",
+  "version": "1.0.0",
+  "description": "Random number generator",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adhinyaadhi/randomnumgenerator.git"
+  },
+  "keywords": [
+    "js",
+    "node"
+  ],
+  "author": "Adhinya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adhinyaadhi/randomnumgenerator/issues"
+  },
+  "homepage": "https://github.com/Adhinyaadhi/randomnumgenerator#readme"
+}
